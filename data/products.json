@@ -1,0 +1,890 @@
+[
+  {
+    "id": 1,
+    "slug": "acrylic-gold-1",
+    "name": "Topper Akrilik Ari - Dasmë",
+    "category": "Topper Akrilik Ari",
+    "price": 26.62,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 2,
+    "slug": "acrylic-gold-2",
+    "name": "Topper Akrilik Ari - Bebe Shower",
+    "category": "Topper Akrilik Ari",
+    "price": 13.12,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 3,
+    "slug": "acrylic-gold-3",
+    "name": "Topper Akrilik Ari - Përvjetor",
+    "category": "Topper Akrilik Ari",
+    "price": 10.37,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 4,
+    "slug": "acrylic-gold-4",
+    "name": "Topper Akrilik Ari - Gradim",
+    "category": "Topper Akrilik Ari",
+    "price": 15.74,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 5,
+    "slug": "acrylic-gold-5",
+    "name": "Topper Akrilik Ari - Krishtlindje",
+    "category": "Topper Akrilik Ari",
+    "price": 12.9,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 6,
+    "slug": "acrylic-gold-6",
+    "name": "Topper Akrilik Ari - Pagëzim",
+    "category": "Topper Akrilik Ari",
+    "price": 13.91,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 7,
+    "slug": "acrylic-gold-7",
+    "name": "Topper Akrilik Ari - Dasmë",
+    "category": "Topper Akrilik Ari",
+    "price": 24.6,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 8,
+    "slug": "acrylic-gold-8",
+    "name": "Topper Akrilik Ari - Bebe Shower",
+    "category": "Topper Akrilik Ari",
+    "price": 9.22,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 9,
+    "slug": "acrylic-gold-9",
+    "name": "Topper Akrilik Ari - Përvjetor",
+    "category": "Topper Akrilik Ari",
+    "price": 18.9,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 10,
+    "slug": "acrylic-gold-10",
+    "name": "Topper Akrilik Ari - Gradim",
+    "category": "Topper Akrilik Ari",
+    "price": 16.89,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 11,
+    "slug": "acrylic-gold-11",
+    "name": "Topper Akrilik Ari - Krishtlindje",
+    "category": "Topper Akrilik Ari",
+    "price": 8.87,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 12,
+    "slug": "acrylic-gold-12",
+    "name": "Topper Akrilik Ari - Pagëzim",
+    "category": "Topper Akrilik Ari",
+    "price": 16.19,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë Gold"
+    ],
+    "personalizable": true,
+    "description": "Topper Akrilik Ari elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 13,
+    "slug": "mirror-topper-1",
+    "name": "Topper Pasqyrë - Dasmë",
+    "category": "Topper Pasqyrë",
+    "price": 22.07,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 14,
+    "slug": "mirror-topper-2",
+    "name": "Topper Pasqyrë - Bebe Shower",
+    "category": "Topper Pasqyrë",
+    "price": 23.32,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 15,
+    "slug": "mirror-topper-3",
+    "name": "Topper Pasqyrë - Përvjetor",
+    "category": "Topper Pasqyrë",
+    "price": 15.64,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 16,
+    "slug": "mirror-topper-4",
+    "name": "Topper Pasqyrë - Gradim",
+    "category": "Topper Pasqyrë",
+    "price": 6.4,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 17,
+    "slug": "mirror-topper-5",
+    "name": "Topper Pasqyrë - Krishtlindje",
+    "category": "Topper Pasqyrë",
+    "price": 8.17,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 18,
+    "slug": "mirror-topper-6",
+    "name": "Topper Pasqyrë - Pagëzim",
+    "category": "Topper Pasqyrë",
+    "price": 19.7,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 19,
+    "slug": "mirror-topper-7",
+    "name": "Topper Pasqyrë - Dasmë",
+    "category": "Topper Pasqyrë",
+    "price": 7.66,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 20,
+    "slug": "mirror-topper-8",
+    "name": "Topper Pasqyrë - Bebe Shower",
+    "category": "Topper Pasqyrë",
+    "price": 11.3,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari Pasqyrë",
+      "Argjend Pasqyrë"
+    ],
+    "personalizable": true,
+    "description": "Topper Pasqyrë elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 21,
+    "slug": "name-plaque-1",
+    "name": "Pllakë Emri Personalizuar - Krishtlindje",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 15.23,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 22,
+    "slug": "name-plaque-2",
+    "name": "Pllakë Emri Personalizuar - Pagëzim",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 6.11,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 23,
+    "slug": "name-plaque-3",
+    "name": "Pllakë Emri Personalizuar - Dasmë",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 7.19,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 24,
+    "slug": "name-plaque-4",
+    "name": "Pllakë Emri Personalizuar - Bebe Shower",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 20.16,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 25,
+    "slug": "name-plaque-5",
+    "name": "Pllakë Emri Personalizuar - Përvjetor",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 27.35,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 26,
+    "slug": "name-plaque-6",
+    "name": "Pllakë Emri Personalizuar - Gradim",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 27.3,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 27,
+    "slug": "name-plaque-7",
+    "name": "Pllakë Emri Personalizuar - Krishtlindje",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 25.32,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 28,
+    "slug": "name-plaque-8",
+    "name": "Pllakë Emri Personalizuar - Pagëzim",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 19.0,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 29,
+    "slug": "name-plaque-9",
+    "name": "Pllakë Emri Personalizuar - Dasmë",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 17.51,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 30,
+    "slug": "name-plaque-10",
+    "name": "Pllakë Emri Personalizuar - Bebe Shower",
+    "category": "Pllakë Emri Personalizuar",
+    "price": 8.45,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "E Zezë"
+    ],
+    "personalizable": true,
+    "description": "Pllakë Emri Personalizuar elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 31,
+    "slug": "cake-band-1",
+    "name": "Shirit Torte (Cake Band) - Gradim",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 22.79,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 32,
+    "slug": "cake-band-2",
+    "name": "Shirit Torte (Cake Band) - Krishtlindje",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 12.51,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 33,
+    "slug": "cake-band-3",
+    "name": "Shirit Torte (Cake Band) - Pagëzim",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 16.23,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 34,
+    "slug": "cake-band-4",
+    "name": "Shirit Torte (Cake Band) - Dasmë",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 11.4,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 35,
+    "slug": "cake-band-5",
+    "name": "Shirit Torte (Cake Band) - Bebe Shower",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 14.14,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 36,
+    "slug": "cake-band-6",
+    "name": "Shirit Torte (Cake Band) - Përvjetor",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 23.78,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 37,
+    "slug": "cake-band-7",
+    "name": "Shirit Torte (Cake Band) - Gradim",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 7.03,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 38,
+    "slug": "cake-band-8",
+    "name": "Shirit Torte (Cake Band) - Krishtlindje",
+    "category": "Shirit Torte (Cake Band)",
+    "price": 20.51,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari",
+      "Bezhë",
+      "E Bardhë"
+    ],
+    "personalizable": true,
+    "description": "Shirit Torte (Cake Band) elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 39,
+    "slug": "candle-number-1",
+    "name": "Qiri Numër/Shifër - Bebe Shower",
+    "category": "Qiri Numër/Shifër",
+    "price": 17.24,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 40,
+    "slug": "candle-number-2",
+    "name": "Qiri Numër/Shifër - Përvjetor",
+    "category": "Qiri Numër/Shifër",
+    "price": 14.17,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 41,
+    "slug": "candle-number-3",
+    "name": "Qiri Numër/Shifër - Gradim",
+    "category": "Qiri Numër/Shifër",
+    "price": 11.42,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 42,
+    "slug": "candle-number-4",
+    "name": "Qiri Numër/Shifër - Krishtlindje",
+    "category": "Qiri Numër/Shifër",
+    "price": 6.4,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 43,
+    "slug": "candle-number-5",
+    "name": "Qiri Numër/Shifër - Pagëzim",
+    "category": "Qiri Numër/Shifër",
+    "price": 25.23,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 44,
+    "slug": "candle-number-6",
+    "name": "Qiri Numër/Shifër - Dasmë",
+    "category": "Qiri Numër/Shifër",
+    "price": 15.84,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 45,
+    "slug": "candle-number-7",
+    "name": "Qiri Numër/Shifër - Bebe Shower",
+    "category": "Qiri Numër/Shifër",
+    "price": 15.93,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 46,
+    "slug": "candle-number-8",
+    "name": "Qiri Numër/Shifër - Përvjetor",
+    "category": "Qiri Numër/Shifër",
+    "price": 15.01,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 47,
+    "slug": "candle-number-9",
+    "name": "Qiri Numër/Shifër - Gradim",
+    "category": "Qiri Numër/Shifër",
+    "price": 23.23,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 48,
+    "slug": "candle-number-10",
+    "name": "Qiri Numër/Shifër - Krishtlindje",
+    "category": "Qiri Numër/Shifër",
+    "price": 9.77,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari",
+      "Argjend",
+      "Rozë"
+    ],
+    "personalizable": true,
+    "description": "Qiri Numër/Shifër elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 49,
+    "slug": "sprinkles-set-1",
+    "name": "Set Sprinkles Dekorues - Dasmë",
+    "category": "Set Sprinkles Dekorues",
+    "price": 6.49,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 50,
+    "slug": "sprinkles-set-2",
+    "name": "Set Sprinkles Dekorues - Bebe Shower",
+    "category": "Set Sprinkles Dekorues",
+    "price": 20.17,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 51,
+    "slug": "sprinkles-set-3",
+    "name": "Set Sprinkles Dekorues - Përvjetor",
+    "category": "Set Sprinkles Dekorues",
+    "price": 25.16,
+    "currency": "EUR",
+    "image": "/products/placeholder-4.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Përvjetor'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 52,
+    "slug": "sprinkles-set-4",
+    "name": "Set Sprinkles Dekorues - Gradim",
+    "category": "Set Sprinkles Dekorues",
+    "price": 8.01,
+    "currency": "EUR",
+    "image": "/products/placeholder-5.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Gradim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 53,
+    "slug": "sprinkles-set-5",
+    "name": "Set Sprinkles Dekorues - Krishtlindje",
+    "category": "Set Sprinkles Dekorues",
+    "price": 10.54,
+    "currency": "EUR",
+    "image": "/products/placeholder-6.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Krishtlindje'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 54,
+    "slug": "sprinkles-set-6",
+    "name": "Set Sprinkles Dekorues - Pagëzim",
+    "category": "Set Sprinkles Dekorues",
+    "price": 16.89,
+    "currency": "EUR",
+    "image": "/products/placeholder-1.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Pagëzim'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 55,
+    "slug": "sprinkles-set-7",
+    "name": "Set Sprinkles Dekorues - Dasmë",
+    "category": "Set Sprinkles Dekorues",
+    "price": 9.49,
+    "currency": "EUR",
+    "image": "/products/placeholder-2.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Dasmë'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  },
+  {
+    "id": 56,
+    "slug": "sprinkles-set-8",
+    "name": "Set Sprinkles Dekorues - Bebe Shower",
+    "category": "Set Sprinkles Dekorues",
+    "price": 24.13,
+    "currency": "EUR",
+    "image": "/products/placeholder-3.svg",
+    "colors": [
+      "Ari & E Bardhë",
+      "Pastel",
+      "Bordo & Ari"
+    ],
+    "personalizable": true,
+    "description": "Set Sprinkles Dekorues elegant për rastin 'Bebe Shower'. Personalizohet me tekst, ngjyrë dhe opsion foto."
+  }
+]
